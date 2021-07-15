@@ -1,2 +1,2 @@
 # cryptohack
-Collection of ctf scripts from https://www.cryptohack.org
+Collection of my solutions for challenges from https://www.cryptohack.org
